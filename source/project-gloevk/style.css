@@ -7,7 +7,7 @@ body {
   color: #444444;
 }
 
-h1 {
+.img, h1 {
   width: 255px;
   margin: 0 auto 8px;
   font-family: "Georgia", serif;

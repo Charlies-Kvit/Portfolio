@@ -11,6 +11,10 @@ body {
   background-position: top center;
 }
 
+h3, .center {
+  text-align: center;
+}
+
 .container {
   max-width: 928px;
   margin: 0 auto;
